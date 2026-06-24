@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+.DS_Store
+reconciliation_report.csv
+.vscode/
